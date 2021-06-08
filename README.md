@@ -1,2 +1,1 @@
-# IOT-Project1
-IOT - Home Automation and Robotic Arm
+# Robotic-Arm-Elderly-Support-System
